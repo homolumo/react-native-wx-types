@@ -1,0 +1,15 @@
+{
+  "name": "@types/react-native-wx",
+  "version": "0.1.0",
+  "description": "TypeScript definitions for react-test-renderer",
+  "license": "MIT",
+  "contributors": [
+      {
+          "name": "homolumo",
+          "url": "https://github.com/homolumo",
+          "githubUsername": "homolumo"
+      }
+  ],
+  "main": "",
+  "scripts": {}
+}
